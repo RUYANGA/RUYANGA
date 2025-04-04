@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 🖥️  **Full-Stack Developer** specializing in **JavaScript (Node.js, Express, NestJS)**
+- 🖥️  **Full-Stack Developer** specializing in **JavaScript (Node.js + TypeScript , Express, NestJS)**
 - 🎯  Experienced in **Backend API development, Authentication, Database management & DevOps**
 - 🚀  Passionate about **Cloud Computing, Microservices & Real-time applications**
 - 📚  Always learning **TypeScript, Cloud Infrastructure & System Design**

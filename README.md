@@ -33,7 +33,8 @@
 
 ### 🚀 Languages
 
-  <img src="https://skillicons.dev/icons?i=js,ts" /><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" /><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" /><img src="https://skillicons.dev/icons?i=docker,aws,vercel,heroku,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts" /><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" /><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" /><img src="https://skillicons.dev/icons?i=docker,aws,vercel,heroku,git,github" />  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
+
 
 
 ---

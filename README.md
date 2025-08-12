@@ -15,7 +15,13 @@
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on E-commerce website using Node.js + typescript<br>👯 I’m looking to collaborate on any real world projects<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning React Native, Python, Java<br>💬 Ask me about Javascript , Node.js, Express.js, MongoDB, MySQL, React.js , CSS, Tailwind CSS, etc.<br>⚡ Fun fact I love both my life and coding every day
+🤝 Eager to collaborate and learn more about Python to enhance my backend and automation skills
+
+🌱 Continuously growing my expertise in React Native, Python, and Java for building cross-platform solutions
+
+💬 Passionate about exchanging ideas on JavaScript, Node.js, Nest.js, Express.js,PostgreSql MongoDB, MySQL, React.js, CSS, Tailwind CSS, and beyond
+
+⚡ Fun fact: I thrive on balancing life and code — both fuel my creativity and drive!
 
 
 ## 🌐 Socials:

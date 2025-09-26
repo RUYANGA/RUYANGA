@@ -21,9 +21,9 @@ I build complete web and mobile applications—clean UIs, scalable APIs, and rob
 
 🧩 Core Tech Stack
 
-Frontend: React.js, React Native, Next.js, HTML, CSS, Tailwind CSS
+Frontend: Flutter, React.js, React Native, Next.js, HTML, CSS, Tailwind CSS
 
-Backend: Node.js, NestJS, Express, TypeScript, Python, Java
+Backend: NestJS, Node.js, Express.js, TypeScript, Python, Java
 
 Databases: PostgreSQL, MongoDB, MySQL, Prisma/Drizzle ORM
 

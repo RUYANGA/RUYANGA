@@ -14,15 +14,30 @@
 </p>
 
 ---
-# 💫 About Me:
-🤝 Eager to collaborate and learn more about Python to enhance my backend and automation skills
+# 💫 About Me
 
-🌱 Continuously growing my expertise in React Native, Python, and Java for building cross-platform solutions
+🚀 Full-Stack & Emerging ML Developer
+I build complete web and mobile applications—clean UIs, scalable APIs, and robust databases—while adding intelligence with machine learning.
 
-💬 Passionate about exchanging ideas on JavaScript, Node.js, Nest.js, Express.js,PostgreSql MongoDB, MySQL, React.js, CSS, Tailwind CSS, and beyond
+🧩 Core Tech Stack
 
-⚡ Fun fact: I thrive on balancing life and code — both fuel my creativity and drive!
+Frontend: React.js, React Native, Next.js, HTML, CSS, Tailwind CSS
 
+Backend: Node.js, NestJS, Express, TypeScript, Python, Java
+
+Databases: PostgreSQL, MongoDB, MySQL, Prisma/Drizzle ORM
+
+🤖 Machine Learning & Data Science
+Exploring Python-based ML frameworks (Pandas, NumPy, scikit-learn, TensorFlow) to integrate predictive features and smart automation into real-world apps.
+
+🔐 Cybersecurity Learner
+Currently expanding my knowledge in cybersecurity fundamentals—network security, secure coding practices, and ethical hacking principles—to build safer applications and protect data.
+
+🌱 Always Growing
+Diving into cloud & DevOps (Docker, CI/CD) and modern architecture patterns to deliver performant, maintainable solutions.
+
+⚡ Fun Fact
+I treat coding like a craft—balancing creativity and engineering to create impactful digital experiences.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ruyanga.merci.1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RuyangaM) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCuDADUdtymyBPjtsvxHYfhw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruyangam15@gmail.com) 

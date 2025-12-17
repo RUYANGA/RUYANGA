@@ -6,6 +6,16 @@
   Passionate about building high-performance, scalable, and secure web applications.
 </h3>
 
+
+## 📬 Contact Me
+
+<p align="">
+  📧 <strong>Email:</strong> <a href="mailto:ruyangam15@gmail.com">ruyangam15@gmail.com</a><br/>
+  📱 <strong>Phone:</strong> <a href="tel:+250780905910">+250 780 905 910</a><br/>
+  🌍 <strong>Location:</strong> Kigali, Rwanda
+</p>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RUYANGA&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/RUYANGA?tab=followers">

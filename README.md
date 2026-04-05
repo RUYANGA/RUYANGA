@@ -121,7 +121,6 @@ Expanding knowledge in:
 
 </p>
 
----
 
 ## 📈 Contribution Activity
 

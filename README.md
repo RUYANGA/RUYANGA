@@ -103,6 +103,34 @@ Expanding knowledge in:
 - Scalable architecture design
 ---
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RUYANGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUYANGA&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUYANGA&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUYANGA&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ruyanga.merci.1)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RuyangaM)

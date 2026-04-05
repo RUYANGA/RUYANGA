@@ -99,7 +99,7 @@ Expanding knowledge in:
 
 - Docker & containerization
 - CI/CD pipelines (GitHub Actions)
-- Cloud deployment (AWS, Vercel, Render)
+- Cloud deployment (AWS,Hostinger,Azure,Vercel, Render)
 - Scalable architecture design
 ---
 

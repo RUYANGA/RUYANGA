@@ -110,6 +110,17 @@ Expanding knowledge in:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruyangam15@gmail.com)
 
 ---
+## 📊 GitHub Contribution Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RUYANGA&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUYANGA&theme=tokyonight" />
+</p>
+---
 
 # 💻 Tech Stack
 

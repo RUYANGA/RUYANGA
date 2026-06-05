@@ -13,6 +13,7 @@
   📧 <strong>Email:</strong> <a href="mailto:ruyangam15@gmail.com">ruyangam15@gmail.com</a><br/>
   📱 <strong>Phone:</strong> <a href="tel:+250780905910">+250 780 905 910</a><br/>
   🌍 <strong>Location:</strong> Kigali, Rwanda
+   🌍 <strong>Portfolio:</strong> https://www.ruyanga.tech
 </p>
 
 

@@ -28,7 +28,7 @@
 
 # 💫 About Me
 
-🚀 **Full-Stack & Machine Learning Developer**
+🚀 **Full-Stack & Machine Learning Engineer**
 
 I design and build modern applications end-to-end — from responsive interfaces and scalable backend systems to intelligent ML-powered features that automate decisions and enhance user experience.
 

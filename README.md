@@ -42,9 +42,9 @@ I focus on writing clean, maintainable, and secure code while integrating data-d
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUYANGA&theme=tokyonight" />
-</p>
+</p> -->
 
 
 # 💻 Tech Stack
